@@ -49,5 +49,5 @@ How to organize components and pages in a clean project structure
 Known Issues
 The API may return a 429 error (Too Many Requests) due to CoinAPI’s free tier limits. But can generate a new key at coinapi.io or switch to a free alternative.
 
-License
-This project was built as a lab assignment for educational purposes.
+I built this app as part of my Per Scholas React Router lab.
+I plan to extend it with search and styling features later.
